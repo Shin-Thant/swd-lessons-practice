@@ -13,4 +13,9 @@ h1 {
 p {
     font-size: 20px;
     font-weight: bold;
+    color: white;
+}
+
+h2 {
+    color: rgb(197, 71, 255);
 }
